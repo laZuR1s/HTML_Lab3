@@ -1,5 +1,5 @@
 table {
-  border-collapse:  collapse;
+  border-collapse: collapse;
   width: 100%;
   height: 800px;
   table-layout: fixed;
@@ -27,10 +27,13 @@ td {
 }
 
 .black {
- background-color: black;
+  background-color: black;
 }
 
-img{
+img {
   margin-top: 20px;
 }
 
+.string_problem {
+  height: 60px;
+}
